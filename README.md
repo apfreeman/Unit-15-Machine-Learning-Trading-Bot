@@ -27,7 +27,7 @@ The speed of these transactions gave my firm a competitive advantage early on. B
 ![[cr]](https://github.com/apfreeman/Unit-15-Machine-Learning-Trading-Bot/blob/main/Images/cr_svm_3_100.PNG?raw=true)
 
 
-#### Slice the training dataset into different time periods in order to tune the model by adjusting the dataset size.  Change one of both window sizes in order to tune the model by adjusting the SMA input features. (8 points)
+#### Slice the training dataset into different time periods in order to tune the model by adjusting the dataset size.  Change one of both window sizes in order to tune the model by adjusting the SMA input features.
 
 * SVC Model cumulative return plot that shows the actual returns vs. the strategy returns. Inputs are short_windows = 8, long_window = 200, DateOffset for training slice = 6 months.
 
