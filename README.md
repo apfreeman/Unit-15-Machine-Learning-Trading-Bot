@@ -70,8 +70,8 @@ The optimal data set size and short and long window size that I tested with was.
  - SVM Model
  - Short Window Size = 8
  - Long Window Size = 200
- - Date Offset = 6 monts
+ - Date Offset = 6 months
 
  These parameters produces the best accuracy score. 
 
- It is worth noting however that the XGboost model, using the defualt 4,100, 6month parameters was not far behind in accuracy and was significantly better than the baseline model.
+ It is worth noting however that the XGboost model, using the default 4,100, 6month parameters was not far behind in accuracy and was significantly better than the baseline model.
