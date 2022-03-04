@@ -74,4 +74,4 @@ The optimal data set size and short and long window size that I tested with was.
 
  These parameters produces the best accuracy score. 
 
- It is worth noting however that the XGboost model, using the defualt 4,100, 6month parameters was not far behind in accuracy. 
+ It is worth noting however that the XGboost model, using the defualt 4,100, 6month parameters was not far behind in accuracy and was significantly better than the baseline model.
